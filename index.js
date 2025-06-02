@@ -408,7 +408,8 @@ setInterval(async () => {
     await simulateActivity();
   } catch (err) {
     console.error("Error simulating activity:", err);
-  }ā
+  }
 }, randomInt(5000, 6000));
  
+
  
